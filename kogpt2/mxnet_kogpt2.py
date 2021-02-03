@@ -27,7 +27,7 @@ from .utils import tokenizer
 
 mxnet_kogpt2 = {
     'url':
-    'https://kobert.blob.core.windows.net/models/kogpt2/mxnet/mxnet_kogpt2_9250bedc00.params',
+    'https://kogpt2temp.s3.ap-northeast-2.amazonaws.com/mxnet_kogpt2_9250bedc00.params.params',
     'fname': 'mxnet_kogpt2_9250bedc00.params',
     'chksum': '9250bedc00'
 }
